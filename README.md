@@ -9,6 +9,7 @@ Overall, each of the included enhancements show my full range of computer scienc
 Prior to starting the enhancements for the different artifacts, I conducted an in-depth code review. The code review describes each of the artifacts and looks for mistakes and areas that need improvement.
 
 ### Software Design and Engineering
+https://github.com/taylorcruz/taylorcruz.github.io/tree/main/Clock.vcxproj
 
 The artifact that I chose to enhance for the software design and engineering category is a program that displays two clocks: a standard 12 hour clock and a clock showing military time. The user can make enhancements to the clock based on inputting a number one through four. This was created March 21st, 2021 for the CS 210 Programming Languages course. I chose this item to showcase my knowledge in software design and engineering because it shows my capabilities to create a functional software that meets the requirements of the project. This program also shows my ability to define functions, to call them back, while loops, if-else statements, and my overall knowledge of the C++ programming language. So far, I have improved the artifact by defining the variable “input” in the userInput function rather than in the main. I have also modified the variables “addHour”, “addMinute”, “addSecond”, and “exit” in the if-else statements to “input” as the statements will be checking the value of the user’s input to modify the clocks. I also removed the cin statement from the main along with the other variables that were defined and am only calling the functions in main. 
 
