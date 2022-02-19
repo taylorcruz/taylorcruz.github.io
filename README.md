@@ -1,4 +1,4 @@
-# taylorcruz.github.io
+
 ## Taylor Cruz ePortfolio
 
 ### Self-Assessment
